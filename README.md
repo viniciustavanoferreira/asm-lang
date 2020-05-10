@@ -1,5 +1,6 @@
-#OS: Debian 9
+OS ~ Debian 9
+===================================
 
-#Terminal commands:
+## Terminal commands:
 
 ![alt text](https://github.com/viniciustavanoferreira/asm-lang/blob/master/terminal.png)
